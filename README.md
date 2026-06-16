@@ -1,475 +1,479 @@
-```md
-<!-- ================================================= -->
-<!-- SLIDE 1 : HERO SECTION -->
-<!-- ================================================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Charitha%20Buddareddy&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Data%20Analyst%20|%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Full+Stack+Developer+🚀;AI+Enthusiast+🤖;React+Developer+⚡;Java+%26+Python+Developer+🐍;Hackathon+Winner+🏆;Building+Solutions+with+Code+✨)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Charitha%20Reddy&fontSize=65&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Cloud%20Learner&descAlignY=55"/>
 
-<br/>
+[![](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+Enthusiast;AWS+Cloud+Practitioner;ServiceNow+CSA+%26+CAD+Certified;250%2B+LeetCode+Problems;Building+AI+Powered+Applications)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=charithabuddareddygari&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/charithabuddareddygari)
-
-[![GitHub followers](https://img.shields.io/github/followers/charithabuddareddygari?style=for-the-badge&color=00D9FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/charithabuddareddygari)
+<img src="https://komarev.com/ghpvc/?username=charithabuddareddygari&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </div>
-```
 
-```md
-<!-- ================================================= -->
-<!-- SLIDE 2 : STATUS -->
-<!-- ================================================= -->
+---
 
-<div align="center">
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-![Status](https://img.shields.io/badge/🚀_STATUS-CURRENTLY_BUILDING_AI_PROJECTS-00D9FF?style=for-the-badge&labelColor=0d1117)
+# 👨‍💻 About Me
 
-![Open to Work](https://img.shields.io/badge/💼_OPEN_TO-INTERNSHIPS_%26_COLLABS-7C3AED?style=for-the-badge&labelColor=0d1117)
+🎓 B.Tech CSE @ Mohan Babu University (CGPA: **9.81**)
 
-</div>
-```
+🏆 Hackathon Winner
 
-````md
-<!-- ================================================= -->
-<!-- SLIDE 3 : ABOUT ME -->
-<!-- ================================================= -->
+🔥 Solved **250+ LeetCode Problems**
 
-## 👋 About Me
+☁ AWS Cloud Practitioner Certified
+
+⚡ ServiceNow CSA & CAD Certified
+
+🤖 AI Enthusiast
+
+🚀 MERN Stack Developer
+
+💡 Building AI Agents and Startup Projects
+
+🎯 Goal: Crack Top Product Companies
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+✅ 250+ LeetCode Problems
+
+✅ 5⭐ Java on HackerRank
+
+✅ 4⭐ SQL on HackerRank
+
+✅ NHETIS 2025 – 3rd Prize
+
+✅ SAMARTHA National-Level Hackathon Finalist
+
+✅ AWS Cloud Practitioner Certified
+
+✅ ServiceNow CSA & CAD Certified
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Sthira AI
+AI-powered Yoga Posture Correction using Computer Vision
+
+## 💰 QuickFund App
+AI-powered Emergency Funding Platform
+
+## 🌾 Farmers Friendly App
+Digital Platform for Farmers
+
+## 🍱 Samartha Sethu
+Food Donation Management System
+
+## 🏘 Mana Uru App
+Village Complaint Management System
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=charithabuddareddygari&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=charithabuddareddygari&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charithabuddareddygari&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=charithabuddareddygari&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charithabuddareddygari&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Snake Contribution Animation
+
+<p align="center">
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+</p>
+
+---
+
+# 🌟 Current Focus
 
 ```yaml
-Name      : Charitha Buddareddy
-Status    : B.Tech CSE Student (2027 Graduate)
-Location  : India 🇮🇳
-Role      : Full Stack Developer & Data Analyst
-Focus     : Building AI-powered applications
-Passion   : Solving real-world problems with technology
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Data Structures and Algorithms
+- Building AI Agents
 ```
 
-- 🔭 Currently building **QuickFund App** and **Sthira AI**
-- 🌱 Learning AI Agents, Cloud Computing and ML
-- 💡 Built startup projects and full-stack applications
-- 🏆 Hackathon Winner and 250+ LeetCode Problems Solved
-- ⚡ Fun fact: Coffee + Code = Happiness ☕
+---
 
-> "Technology becomes meaningful when it solves real problems."
-````
+# 📅 Developer Journey
 
-```md
-<!-- ================================================= -->
-<!-- SLIDE 4 : CURRENT FOCUS -->
-<!-- ================================================= -->
+```mermaid
+timeline
+title My Developer Journey
 
-### 🚀 Current Focus
+2023 : Started B.Tech CSE
+     : Started Java
 
-| 🔥 Building | 📚 Learning | 🎯 Target |
-|:-----------:|:-----------:|:---------:|
-| QuickFund App | AI Agents | Software Engineer Role |
-| Sthira AI | Machine Learning | Open Source Contributor |
-| Farmers Friendly App | Cloud Computing | AI/ML Engineering |
+2024 : MERN Stack Development
+     : DSA Practice
+
+2025 : Hackathons
+     : AWS Cloud Practitioner
+     : ServiceNow CSA & CAD
+
+2026 : Artificial Intelligence
+     : Startup Building
 ```
 
-```md
-<!-- ================================================= -->
-<!-- SLIDE 5 : LANGUAGES + FRONTEND -->
-<!-- ================================================= -->
+---
 
-## 🛠️ Tech Stack
+# 💻 Coding Profiles
 
-### ⟨ Languages ⟩
+<p align="center">
 
-Java • Python • JavaScript • HTML5 • CSS3
+<a href="https://leetcode.com/u/charithabuddareddygari/">
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-### ⟨ Frontend ⟩
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-5★%20Java%20|%204★%20SQL-brightgreen?style=for-the-badge&logo=hackerrank"/>
+</a>
 
-React.js • Tailwind CSS • Bootstrap
-```
+</p>
 
-```md
-<!-- ================================================= -->
-<!-- SLIDE 6 : BACKEND + DATABASE -->
-<!-- ================================================= -->
+---
 
-### ⟨ Backend ⟩
+# 🎓 Certifications
 
-Node.js • Express.js • REST APIs
+🏅 AWS Cloud Practitioner
 
-### ⟨ Database ⟩
+🏅 ServiceNow CSA
 
-MongoDB • MySQL
+🏅 ServiceNow CAD
 
-### ⟨ AI & Automation ⟩
+🏅 NPTEL DBMS
 
-AI Agents • Machine Learning • Data Analytics
-```
+🏅 SQL Certification
 
-```md
-<!-- ================================================= -->
-<!-- SLIDE 7 : CLOUD + TOOLS -->
-<!-- ================================================= -->
+🏅 Full Stack Development
 
-### ⟨ Cloud & Deployment ⟩
+---
 
-Netlify • AWS Cloud Practitioner
+# ⚡ Random Dev Quote
 
-### ⟨ Tools & Workflow ⟩
+<p align="center">
 
-Git • GitHub • VS Code • AI Agents
-```
-```md
-<!-- ================================================= -->
-<!-- SLIDE 8 : FEATURED PROJECTS (PART 1) -->
-<!-- ================================================= -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-## 🛸 Featured Projects
+</p>
+
+---
+
+# 😂 Random Joke
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:charithabuddareddygari02@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/charithareddy123">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/charithabuddareddygari">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
+
+### 🚀 Turning Ideas Into Reality Through Code
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=150&section=footer"/>
+
+</div>
+---
+
+# 🚀 Pinned Projects
+
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
+### 🤖 Sthira AI
+AI-powered Yoga Posture Correction System
 
-### 🤖 QuickFund App
+⭐ Computer Vision
 
-> AI & ML-based emergency funding platform that provides instant financial assistance to patients during critical medical situations.
+⭐ AI/ML
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-00D9FF?style=flat-square)
-![ML](https://img.shields.io/badge/Machine_Learning-412991?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+⭐ Python
+
+⭐ OpenCV
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
+
+### 💰 QuickFund App
+AI Emergency Funding Platform
+
+⭐ MERN Stack
+
+⭐ AI Integration
+
+⭐ MongoDB
+
+⭐ Node.js
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🌾 Farmers Friendly App
+Agriculture Startup Platform
 
-> Startup project designed to help farmers with market access, government schemes, and expert guidance.
+⭐ React
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
+⭐ Express
 
-</td>
+⭐ MongoDB
 
-</tr>
-</table>
-</div>
-```
-
-```md
-<!-- ================================================= -->
-<!-- SLIDE 9 : FEATURED PROJECTS (PART 2) -->
-<!-- ================================================= -->
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏘️ Mana Uru App
-
-> Application for village residents to raise complaints and communicate with authorities for faster problem resolution.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
+⭐ APIs
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🧘 Sthira AI
-
-> AI-powered wellness platform that analyzes and corrects yoga asanas using Computer Vision.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![AI](https://img.shields.io/badge/AI-412991?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/CV-00D9FF?style=flat-square)
-
-</td>
-
-</tr>
-</table>
-```
-
-```md
-<!-- ================================================= -->
-<!-- SLIDE 10 : FEATURED PROJECTS (PART 3) -->
-<!-- ================================================= -->
+<td width="50%">
 
 ### 🍱 Samartha Sethu
+Food Donation System
 
-> Website connecting food donors with receivers to reduce food waste and support communities.
+⭐ Full Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
-```
+⭐ React
 
-```md
-<!-- ================================================= -->
-<!-- SLIDE 11 : GITHUB ANALYTICS -->
-<!-- ================================================= -->
+⭐ Node.js
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=charithabuddareddygari&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=charithabuddareddygari&theme=tokyonight&hide_border=true"/>
-
-</div>
-```
-
-```md
-<!-- ================================================= -->
-<!-- SLIDE 12 : ACHIEVEMENTS -->
-<!-- ================================================= -->
-
-## 🏅 Achievements & Milestones
-
-| Badge | Achievement | Status |
-|:---:|:-------------|:------:|
-| 🏆 | NHETIS 2025 - 3rd Prize | ✅ Done |
-| 🥇 | SAMARTHA National Hackathon Finalist | ✅ Done |
-| 🔥 | Solved 250+ LeetCode Problems | ✅ Done |
-| ⭐ | 5 Star Java & 4 Star SQL HackerRank | ✅ Done |
-| ☁️ | AWS Cloud Practitioner | ✅ Certified |
-| ⚙️ | ServiceNow CSA & CAD | ✅ Certified |
-| 📚 | NPTEL DBMS & SQL | ✅ Completed |
-| 💻 | Full Stack Developer Certification | ✅ Completed |
-```
-
-```md
-<!-- ================================================= -->
-<!-- SLIDE 13 : INTERNSHIPS -->
-<!-- ================================================= -->
-
-## 💼 Internship Experience
-
-- EduSkills – Data Engineering
-- ApexPlanet – Full Stack Development
-- Codec Technologies – Data Science
-- Bluestock – Software Development
-- Deloitte – Data Analytics
-- ServiceNow University Internship
-- SkillBuilder MERN Stack Internship
-- Infosys Springboard AI Internship (Ongoing)
-```
-
-```md
-<!-- ================================================= -->
-<!-- SLIDE 14 : LEARNING ROADMAP -->
-<!-- ================================================= -->
-
-## 🗺️ Learning Journey & Roadmap
-
-MASTERED            CURRENTLY LEARNING          NEXT TARGETS
-
-✅ Java             🔄 AI Agents                 🎯 System Design
-
-✅ Python           🔄 Machine Learning          🎯 DevOps
-
-✅ React.js         🔄 Data Analytics            🎯 Kubernetes
-
-✅ MongoDB          🔄 AWS Services              🎯 Microservices
-
-✅ Git & GitHub     🔄 MERN Stack                🎯 Gen AI
-
-✅ DSA              🔄 Computer Vision           🎯 AI Engineer
-```
-```md
-<!-- ================================================= -->
-<!-- SLIDE 15 : GOALS FOR 2027 -->
-<!-- ================================================= -->
-
-## 🎯 Goals for 2027
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-### 💼
-
-**Land First Tech Role**
-
-Software Engineer / AI Engineer
+⭐ MongoDB
 
 </td>
-
-<td align="center" width="25%">
-
-### 🌍
-
-**Contribute to Open Source**
-
-10+ Meaningful PRs
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**Build AI Products**
-
-Real-world AI Solutions
-
-</td>
-
-<td align="center" width="25%">
-
-### ☁️
-
-**Earn More Certifications**
-
-AWS & Advanced AI
-
-</td>
-
 </tr>
 
 </table>
 
-</div>
+---
+
+# 🔥 2026 Goals
+
+- [x] 250+ LeetCode Problems
+- [x] AWS Cloud Practitioner
+- [x] ServiceNow CSA
+- [x] ServiceNow CAD
+- [ ] 500+ LeetCode Problems
+- [ ] 1000 GitHub Contributions
+- [ ] Top Product Company Internship
+- [ ] Open Source Contributor
+- [ ] Build Successful Startup
 
 ---
+
+# 📊 Coding Time
+
+```text
+Java          ██████████████░░░░░ 45%
+JavaScript    ███████████░░░░░░░░ 30%
+Python         ███████░░░░░░░░░░░ 20%
+Others         ██░░░░░░░░░░░░░░░░ 5%
 ```
 
-```md
-<!-- ================================================= -->
-<!-- SLIDE 16 : DEVELOPER IDENTITY -->
-<!-- ================================================= -->
+---
 
-## ⚡ Developer Identity
+# 🏅 Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws">
+
+<img src="https://img.shields.io/badge/ServiceNow-CSA-success?style=for-the-badge&logo=servicenow">
+
+<img src="https://img.shields.io/badge/ServiceNow-CAD-success?style=for-the-badge&logo=servicenow">
+
+<img src="https://img.shields.io/badge/LeetCode-250%2B-orange?style=for-the-badge&logo=leetcode">
+
+<img src="https://img.shields.io/badge/HackerRank-5★%20Java-brightgreen?style=for-the-badge&logo=hackerrank">
+
+</p>
+
+---
+
+# ⚙️ Development Environment
+
+```yaml
+OS: Windows 11
+IDE: VS Code
+Languages: Java, Python, JavaScript
+Frontend: React, Tailwind CSS
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+Cloud: AWS
+Version Control: Git & GitHub
+```
+
+---
+
+# 📈 Contribution Stats
+
+<img src="https://github-contributor-stats.vercel.app/api?username=charithabuddareddygari&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+
+---
+
+# 💡 Quote
 
 <div align="center">
 
-![AI Enthusiast](https://img.shields.io/badge/🤖_AI_ENTHUSIAST-Building_Intelligent_Systems-412991?style=for-the-badge&labelColor=0d1117)
-
-![Full Stack](https://img.shields.io/badge/🔥_FULL_STACK-Frontend_to_Backend-7C3AED?style=for-the-badge&labelColor=0d1117)
-
-![MERN Stack](https://img.shields.io/badge/⚛️_MERN_STACK-MongoDB_Express_React_Node-00D9FF?style=for-the-badge&labelColor=0d1117)
-
-![Problem Solver](https://img.shields.io/badge/🛸_PROBLEM_SOLVER-DSA_&_Competitive_Coding-F7DF1E?style=for-the-badge&labelColor=0d1117)
-
-![Leader](https://img.shields.io/badge/🌟_LEADER-Event_Organizer_&_Mentor-22C55E?style=for-the-badge&labelColor=0d1117)
+## "Consistency beats intensity. Build every day."
 
 </div>
 
 ---
-```
 
-```md
-<!-- ================================================= -->
-<!-- SLIDE 17 : LEADERSHIP & EXPERIENCE -->
-<!-- ================================================= -->
+# 🌌 Visitor Counter
 
-## 🚀 Leadership & Experience
+<p align="center">
 
-### 🏛 ISTE MBU & SVEC Coordinator
+<img src="https://profile-counter.glitch.me/charithabuddareddygari/count.svg"/>
 
-- Led teams and collaborated with faculty
-- Organized 25+ events
-
-### 💻 Coding Club - Disciplinary Head
-
-- Mentored students
-- Managed state-level hackathons
-
-### ⭐ Astra Club Chairperson
-
-- Led club activities
-- Developed leadership and communication skills
+</p>
 
 ---
+
+# ☕ Support Me
+
+<p align="center">
+
+<a href="https://github.com/sponsors">
+<img src="https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# 🎵 Currently Vibing
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sbm3i6vkt2kjvgg7eqjrru6f2m&cover_image=true&theme=default"/>
+
+</p>
+
+---
+
+# 💻 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/charithabuddareddygari/">
+<img src="https://leetcard.jacoblin.cool/charithabuddareddygari?theme=dark&font=Poppins"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Eating My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 🌟 Fun Fact
+
+```java
+while(!success){
+    tryAgain();
+    learn();
+    improve();
+}
 ```
 
-```md
-<!-- ================================================= -->
-<!-- SLIDE 18 : LET'S CONNECT -->
-<!-- ================================================= -->
-
-## 🌐 Let's Connect
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charitha_Buddareddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charithareddy123)
+### ⭐ Thanks for Visiting My Profile ⭐
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-250+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/charithabuddareddygari)
-
-[![GitHub](https://img.shields.io/badge/GitHub-charithabuddareddygari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charithabuddareddygari)
-
-[![Email](https://img.shields.io/badge/Email-charithabuddareddygari02@gmail.com-FF2D78?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charithabuddareddygari02@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer"/>
 
 </div>
-
----
-```
-
-```md
-<!-- ================================================= -->
-<!-- SLIDE 19 : SUPPORT MY WORK -->
-<!-- ================================================= -->
-
-## 💜 Support My Work
-
-If you find my projects useful, consider giving them a ⭐
-
-> Every star motivates me to build more impactful solutions.
-
-![Visitor Count](https://komarev.com/ghpvc/?username=charithabuddareddygari&style=for-the-badge&color=7C3AED)
-
-![Followers](https://img.shields.io/github/followers/charithabuddareddygari?style=for-the-badge&color=00D9FF)
-
----
-```
-
-```md
-<!-- ================================================= -->
-<!-- SLIDE 20 : FAVORITE QUOTE -->
-<!-- ================================================= -->
-
-<div align="center">
-
-## 💡 Quote
-
-"The future belongs to those who continuously learn, build and innovate."
-
-— Charitha Buddareddy
-
-</div>
-
----
-```
-
-```md
-<!-- ================================================= -->
-<!-- SLIDE 21 : FOOTER -->
-<!-- ================================================= -->
-
-<div align="center">
-
-### 💜 Made with Passion by Charitha Buddareddy — 2027
-
-Full Stack Developer • Data Analyst • AI Enthusiast
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-<!-- ================================================= -->
-<!-- END -->
-<!-- ================================================= -->
-```
